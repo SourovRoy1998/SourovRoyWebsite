@@ -11,12 +11,13 @@ class NavigationBar extends React.Component {
           <Container>
             <Navbar.Brand href="#home">Sourov Roy</Navbar.Brand>
             <Nav className="ml-auto">
-            <Nav.Link href="#home">Home</Nav.Link>
-              <Nav.Link href="#resume">Resume</Nav.Link>
-              <Nav.Link href="#projects">Projects</Nav.Link>
-              <Nav.Link href="#science-blog">Science Blog</Nav.Link>
-              <Nav.Link href="#humanities-blog">Humanities Blog</Nav.Link>
-              <Nav.Link href="#bengali-blog">Bengali Blog</Nav.Link>
+            <Nav.Link href="/home">Home</Nav.Link>
+              <Nav.Link href="/resume">Resume</Nav.Link>
+              <Nav.Link href="/projects">Projects</Nav.Link>
+              <Nav.Link href="/certificates">Certificates</Nav.Link>
+              <Nav.Link href="/science-blog">Science Blog</Nav.Link>
+              <Nav.Link href="/humanities-blog">Humanities Blog</Nav.Link>
+              <Nav.Link href="/bengali-blog">Bengali Blog</Nav.Link>
             </Nav>
           </Container>
         </Navbar>
