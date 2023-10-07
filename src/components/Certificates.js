@@ -11,4 +11,4 @@ class Certificates extends React.Component {
 }
 
 
-export default Certificates
+export default Certificates;

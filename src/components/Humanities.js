@@ -1,14 +1,14 @@
 import React from 'react';
 
-class ScienceBlog extends React.Component {
+class Humanities extends React.Component {
     render() {
         return (
             <>
-                <div>Science Blog</div>
+                <div>Humanities</div>
             </>
         )
     }
 }
 
 
-export default ScienceBlog
+export default Humanities;

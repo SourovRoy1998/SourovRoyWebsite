@@ -1,14 +1,14 @@
 import React from 'react';
 
-class BengaliBlog extends React.Component {
+class Science extends React.Component {
     render() {
         return (
             <>
-                <div>Bengali Blog</div>
+                <div>Science</div>
             </>
         )
     }
 }
 
 
-export default BengaliBlog
+export default Science;

@@ -11,4 +11,4 @@ class Hackathon extends React.Component {
 }
 
 
-export default Hackathon
+export default Hackathon;
