@@ -5,6 +5,7 @@ export const NAV = {
     CERTIFICATES: 'certificates',
     HACKATHON: 'hackathon',
     SCIENCE: 'science',
+    FINANCE: 'finance',
     HUMANITIES: 'humanities',
     BENGALI: 'bengali'
   };

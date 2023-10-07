@@ -3,9 +3,11 @@
 }
 
 .footer {
-  background-color: #f8f9fa;
+  background-color: black;
   padding: 10px 0;
   text-align: center;
-  position: sticky;
+  position: fixed;
+  left: 0;
   bottom: 0;
+  right: 0;
 }

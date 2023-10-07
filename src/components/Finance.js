@@ -3,7 +3,7 @@ import ItemCard from './ItemCard';
 import CardGroup from 'react-bootstrap/CardGroup';
 import '../App.css';
 
-class Bengali extends React.Component {
+class Finance extends React.Component {
     render() {
         return (
             <>
@@ -66,4 +66,4 @@ class Bengali extends React.Component {
 }
 
 
-export default Bengali;
+export default Finance;
